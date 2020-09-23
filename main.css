@@ -107,12 +107,11 @@ a {
 {
   background:#545c56;
   color: white;
-  height: 50px;
+  height: 100px;
   font-family: times;
   font-size:15px;
 }
 
 .foot pre{
   padding:15px;
-  background-color:#545c56
 }
